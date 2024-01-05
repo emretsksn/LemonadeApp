@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Limonata Uygulaması</string>
+    <string name="lemon_select">Bir limon seçmek için limon ağacına dokunun</string>
+    <string name="lemon_squeeze">Sıkmak için limona dokunmaya devam edin</string>
+    <string name="lemon_drink">İçmek için limonata dokunun</string>
+    <string name="lemon_empty_glass">Tekrar başlamak için boş bardağa dokunun</string>
+    <string name="lemon_tree_content_description">Limon Ağacı</string>
+    <string name="lemon_content_description">Limon</string>
+    <string name="lemonade_content_description">Bardak limonata</string>
+    <string name="empty_glass_content_description">Boş bardak</string>
+</resources>
